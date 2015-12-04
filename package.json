@@ -1,6 +1,6 @@
 {
   "name": "mys-common-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Common stuff used in my projects",
   "repository": {
     "type": "git",
@@ -9,9 +9,6 @@
   "author": "Kamil Kisiela <kamil.kisiela@ster-project.pl>",
   "homepage": "https://github.com/kamilkisiela/mys-common-tools",
   "dependencies": {
-    "babel-eslint": "^4.1.6",
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^2.0.0",
-    "eslint-plugin-react": "^3.11.2"
+    "eslint-config-airbnb": "^2.0.0"
   }
 }
